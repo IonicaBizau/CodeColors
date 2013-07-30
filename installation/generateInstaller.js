@@ -3,7 +3,7 @@ var fs = require("fs");
 var echos = "";
 
 for (var i = 0; i < 1; ++i) {
-    echos += generateRandomEcho(27) + "\n";
+    echos += generateRandomEcho(39) + "\n";
 }
 
 var colors =
