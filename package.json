@@ -1,0 +1,19 @@
+{
+  "name": "CodeColors",
+  "version": "0.0.0",
+  "description": "The code in the many colors.",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/CodeColors/CodeColors.git"
+  },
+  "keywords": [
+    "github",
+    "colors",
+    "code"
+  ],
+  "author": "Ionica Bizau",
+  "license": "Apache License Version 2.0",
+  "bugs": {
+    "url": "https://github.com/CodeColors/CodeColors/issues"
+  }
+}
