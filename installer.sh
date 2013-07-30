@@ -35,11 +35,14 @@ chmod +x installation/graphics/colors.sh
 
 installation/graphics/colors.sh
 
-echo "==========================="
-echo "|        CodeColors       |"
-echo "| ----------------------- |"
-echo "|  Author:  Ionica Bizau  |"
-echo "|   (C) 2013 CodeColors   |"
-echo "==========================="
+echo "    ╭━━━╮╱╱╱╱╭╮╱╱╭━━━╮╱╱╭╮             "
+echo "    ┃╭━╮┃╱╱╱╱┃┃╱╱┃╭━╮┃╱╱┃┃             "
+echo "    ┃┃╱╰╋━━┳━╯┣━━┫┃╱╰╋━━┫┃╭━━┳━┳━━╮    "
+echo "    ┃┃╱╭┫╭╮┃╭╮┃┃━┫┃╱╭┫╭╮┃┃┃╭╮┃╭┫━━┫    "
+echo "    ┃╰━╯┃╰╯┃╰╯┃┃━┫╰━╯┃╰╯┃╰┫╰╯┃┃┣━━┃    "
+echo "    ╰━━━┻━━┻━━┻━━┻━━━┻━━┻━┻━━┻╯╰━━╯    "
+echo " ===================================== "
+echo "          Aᴜᴛʜᴏʀ: Iᴏɴɪᴄᴀ Bɪᴢᴀᴜ         "
+echo "             (C) CᴏᴅᴇCᴏʟᴏʀs            "
 
 installation/graphics/colors.sh
