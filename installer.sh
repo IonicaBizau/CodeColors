@@ -33,6 +33,9 @@ mkdir installation/graphics
 node installation/generateInstaller.js
 chmod +x installation/graphics/colors.sh
 
+sleep 1
+clear
+sleep 1
 installation/graphics/colors.sh
 
 echo "    ╭━━━╮╱╱╱╱╭╮╱╱╭━━━╮╱╱╭╮             "
@@ -46,3 +49,4 @@ echo "          Aᴜᴛʜᴏʀ: Iᴏɴɪᴄᴀ Bɪᴢᴀᴜ         "
 echo "             (C) CᴏᴅᴇCᴏʟᴏʀs            "
 
 installation/graphics/colors.sh
+./postinstall.sh
