@@ -11,9 +11,28 @@
     "colors",
     "code"
   ],
-  "author": "Ionica Bizau",
-  "license": "Apache License Version 2.0",
+  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/CodeColors/CodeColors/issues"
-  }
+  },
+  "homepage": "https://github.com/IonicaBizau/CodeColors#readme",
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "scripts/",
+    "resources/",
+    "menu/",
+    "cli.js",
+    "index.js",
+    "index.d.ts",
+    "package-lock.json",
+    "bloggify.js",
+    "bloggify.json",
+    "bloggify/"
+  ],
+  "main": "lib/index.js"
 }
